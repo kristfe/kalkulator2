@@ -1,20 +1,15 @@
-package org.example;
-
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class Main {
+public class coba {
 
-
-    public int penjumlahan (int a, int b){
+    public static int penjumlahan (int a, int b){
         return a+b;
     }
-    public int pengurangan (int a, int b){
+    public static int pengurangan (int a, int b){
         return a-b;
     }
-
-    public int perkalian (int a, int b){
+    public static int perkalian (int a, int b){
         return a*b;
     }
 
